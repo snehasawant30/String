@@ -1,5 +1,6 @@
 package com.sneha.string;
 
+import java.util.Collections;
 import java.util.HashMap;
 
 public class CountChar {
@@ -20,7 +21,9 @@ public class CountChar {
 				map.put(ch, count);
 			}
 		}
+		
 		System.out.println(map);
+		
 	}
 
 }
