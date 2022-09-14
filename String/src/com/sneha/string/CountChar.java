@@ -22,7 +22,6 @@ public class CountChar {
 				map.put(ch, count);
 			}
 		}
-		System.out.println(map.keySet());
 		System.out.println(map);
 		
 	}
