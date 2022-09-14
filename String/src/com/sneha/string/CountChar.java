@@ -1,5 +1,6 @@
 package com.sneha.string;
-
+/*1) Java Program to count the total number of characters in a string
+2) Java Program to count the total number of characters in a string 2*/
 import java.util.Collections;
 import java.util.HashMap;
 
