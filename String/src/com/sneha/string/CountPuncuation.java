@@ -10,9 +10,9 @@ public class CountPuncuation {
 			char ch = name.charAt(i);
 			if(ch == '!' || ch == ',' || ch == ';' || ch == '.' || ch == '-' || ch == '"' || ch == '?' || ch == ';' || ch == '/') {
 				count++;
-				System.out.print(" "+ch);
 			}
 		}
 		System.out.println(count);
+		
 	}
 }
